@@ -1,5 +1,5 @@
 # Exploring Prosper Loan Data
-#### by Ogunmola Israel - July 2022
+#### by Israel Ogunmola - July 2022
 
 ## Overview
 This project aims to analyze loan data from [Prosper Marketplace](https://www.prosper.com/), a company based in San Francisco, California, that specializes in providing peer-to-peer loans at low interest rates to borrowers. The goal is to identify the different borrower motivations when applying for loans, and several factors that may influence loan favorability (measured in terms of annual percentage rates).
