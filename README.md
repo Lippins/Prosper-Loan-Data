@@ -22,4 +22,4 @@ Further exploration reveals a dichotomy between borrower APR and Prosper rating.
 ## Key Insights for Presentation
 Explanations start with the most common reasons why people borrow through prosper, and the average amounts they borrow for those reasons. The information was conveyed with two barplots. 
 
-Furthermore, the influence of Prosper rating on loan interest rate was explained. This used a mix of box plots, scatterplots, and point plots to show disparities in borrowing power between high and low-rated borrowers. An interesting influence of lurking variables, like loan term, was also visualized.
+Furthermore, the influence of Prosper rating on loan interest rate was explained. This used a mix of box plots, scatterplots, and point plots to show the disparities in borrowing power across Prosper ratings. An interesting influence of lurking variables, like loan term, was also visualized.
